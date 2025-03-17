@@ -11,3 +11,12 @@ Este proyecto es una aplicación web simple que permite agregar nombres de amigo
 
 ## 📂 Estructura del Proyecto
 
+
+## 🛠️ Tecnologías Usadas
+
+- **HTML5** - Para la estructura de la aplicación.  
+- **CSS3** - Para los estilos y diseño responsivo.  
+- **JavaScript** - Para la lógica del juego (manejo del DOM y selección aleatoria).  
+
+
+
